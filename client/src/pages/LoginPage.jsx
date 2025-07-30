@@ -4,10 +4,10 @@ import { AuthContext } from '../../context/AuthContext'
 
 const LoginPage = () => {
 
-  const [currState, setCurrState] = useState("Sign up")
+  const [currState, setCurrState] = useState("Login");
   const [fullName, setFullName] = useState("")
-  const [email, setEmail] = useState("")
-  const [password, setPassword] = useState("")
+  const [email, setEmail] = useState("test@gmail.com");
+  const [password, setPassword] = useState("123456");
   const [bio, setBio] = useState("")
   const [isDataSubmitted, setIsDataSubmitted] = useState(false);
 
@@ -83,3 +83,4 @@ const LoginPage = () => {
 }
 
 export default LoginPage
+
