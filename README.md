@@ -22,7 +22,6 @@ Use the above credentials to log in quickly.
 
 ## 🖼 Screenshot
 <img width="2188" height="1321" alt="Screenshot 2025-07-31 015528" src="https://github.com/user-attachments/assets/8f4bd696-1cd7-4bd9-90e8-addb02234cb8" />
-<img width="2016" height="1240" alt="Screenshot 2025-07-31 015508" src="https://github.com/user-attachments/assets/d79670f9-fc6b-43a0-a5fa-af1aa48ecabc" />
 <img width="2031" height="1261" alt="Screenshot 2025-07-31 020042" src="https://github.com/user-attachments/assets/9eac502d-4f2c-49e0-8bf0-53aae3ccc5f7" />
 <img width="2002" height="1237" alt="Screenshot 2025-07-31 015431" src="https://github.com/user-attachments/assets/956c2cba-ce42-4ea1-b367-a060c3d37cef" />
 <img width="1375" height="899" alt="image" src="https://github.com/user-attachments/assets/270da8e1-3045-4ee0-960e-a092e2b3e870" />
