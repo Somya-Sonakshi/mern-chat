@@ -45,7 +45,7 @@ app.use(cors());
 app.use("/api/status", (req, res)=> res.send("Server is live"));
 app.use("/api/auth", userRouter);
 app.use("/api/messages", messageRouter)
-app.use("/",()=>res.send("Hey app is running"))
+app.use("/",(req,res)=>res.send("Hey app is running"))
 
 
 // Connect to MongoDB
